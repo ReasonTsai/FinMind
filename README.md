@@ -69,7 +69,7 @@ yourself.
     - [線上 API](http://api.finmindtrade.com/docs)
     - [Taiwan Stock Data](https://finmind.github.io/tutor/TaiwanMarket/DataList/)
     - [Document](https://finmind.github.io/)
-  <!--- [Crawler (爬蟲)](https://github.com/FinMind/FinMind/tree/master#Crawler-爬蟲)-->
+  <!--- [crawler (爬蟲)](https://github.com/FinMind/FinMind/tree/master#Crawler-爬蟲)-->
 
 - Other
     - [Open UP Summit Slide (PPT)](https://www.slideshare.net/ssusera12be6/finmind-project-demo-199815617)
